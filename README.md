@@ -1,3 +1,5 @@
+<img width="1276" height="589" alt="截图20260412190824" src="https://github.com/user-attachments/assets/32b923ff-116c-485d-9f9a-59f9151c1a72" />
+<img width="970" height="593" alt="截图20260412121157" src="https://github.com/user-attachments/assets/ac09e0f8-c016-4458-9ee1-0a0a15bcc15e" />
 * 支持对图片进行马赛克处理或高斯模糊，可以调节马赛克大小(intensity)和羽化大小(feather_amount)
 批处理请开启Auto Queue或秋叶版的运行(实时)，每次记得重置primitive节点的整数，当出现报错弹窗代表处理完成，结果在input中
 
